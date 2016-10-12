@@ -1,0 +1,54 @@
+.home {
+	background-image: url(images/desk.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+}
+
+blockquote {
+	display: block;
+	margin-top: 30%;
+	margin-bottom: 1em;
+	color: white;
+}
+
+.about {
+	background-color: #ebebeb;
+}
+
+.education {
+	background-color: #363B3E;
+	color: white;
+}
+
+.work-experience {
+	background-color: #363B3E;
+	color: white;
+}
+
+.glyphicon.glyphicon-heart {
+	color: #ff0000;
+}
+
+.My-Skills {
+	background-color: #ebebeb;
+}
+
+.portfolio {
+	padding-top: 30px;
+	background-color: #363B3E;
+	color: white;
+}
+.contact {
+	padding-top: 30px;
+	background-color: #ebebeb;
+}
+
+footer {
+	position: fixed-bottom;
+	background-color: #363B3F;
+}
+
+ul {
+  list-style-type: none;
+}
