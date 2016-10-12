@@ -13,7 +13,8 @@ blockquote {
 }
 
 .about {
-	background-color: #ebebeb;
+	background-color: #CECDAA;
+	color: #363B3E;
 }
 
 .education {
@@ -31,7 +32,8 @@ blockquote {
 }
 
 .My-Skills {
-	background-color: #ebebeb;
+	background-color: #CECDAA;
+	color: #363B3E;
 }
 
 .portfolio {
@@ -41,7 +43,8 @@ blockquote {
 }
 .contact {
 	padding-top: 30px;
-	background-color: #ebebeb;
+	background-color: #CECDAA;
+	color: #363B3E;
 }
 
 footer {
